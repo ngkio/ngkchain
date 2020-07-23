@@ -1,0 +1,5 @@
+add_subdirectory( nodengk )
+add_subdirectory( clngk )
+add_subdirectory( kngkd )
+add_subdirectory( ngk-launcher )
+add_subdirectory( ngk-blocklog )

@@ -1,0 +1,7 @@
+#include <ngk/chain/genesis_state.hpp>
+
+namespace ngk { namespace chain {
+
+const string genesis_state::ngk_root_key = "${NGK_ROOT_KEY}";
+
+} } // namespace ngk::chain

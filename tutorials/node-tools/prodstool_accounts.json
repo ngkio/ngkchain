@@ -1,0 +1,32 @@
+{
+    "users": [
+        {"name":"useraaaaaadh", "pvt":"5Jf3RhKMjaiygf1mhCaBKSKFX4J7psnCZ2McAaz4WBv49H12oTM", "pub":"NGK8N44outjyD2LqwdFJtqeCoX65awjx6HD3sWnFntLBF6W6rCsET"},
+        {"name":"useraaaaaadi", "pvt":"5JiA4gVfa5NRsvWY8GRKWvujDexFtAZGuqRzu9Gro8d5ZEN3Up4", "pub":"NGK6PDEG8tWx8cAH9UuBmWiv1emULZADdjShmp1GGU3nZL8mst3hm"},
+        {"name":"useraaaaaadj", "pvt":"5KkEMMkJkoXFmPJCC6Lf7gV78mRyFgcXKcgrHtNsYTq4RQcKXSh", "pub":"NGK6ep6E2PyTL1Hyq9YUwyzg3ZASRVAHifukdMSjqvcr2EiddMY8h"},
+        {"name":"useraaaaaadk", "pvt":"5Huv9MJMb3JSdzRpHXHGqiwo3F9m1H7cAiWKqbxffwTLVfUqGaT", "pub":"NGK66wvzXiUpNhfwKiVP8kHa3q26VnitxE9dCJ2pz7sK4gs9E9fsL"},
+        {"name":"useraaaaaadl", "pvt":"5JuBGRTJwqCnVMpYsrNb7MtsY29xPHjPKLcmwNEcHEFSfmia16G", "pub":"NGK8VhQBTpZd8ZKtauD8tcTRXctkWKVLMq9UQeyMpTyPHAdY5cuEJ"},
+        {"name":"useraaaaaadm", "pvt":"5KfXDYARchyWPKwqDZ8nRZoT2SZ4pSdEUu7ADiWvHMTczBV5AV8", "pub":"NGK622M6ddBP7cjiA1dP8UmDwKVwv4wcZJaeC278GkmRK16hwFAD1"},
+        {"name":"useraaaaaadn", "pvt":"5JY2kxFQLwTdb5t9kNm2vNeUk1bMyEPLryoXnwE7n9p5Jvj8KmA", "pub":"NGK88mnhqGSqnusP8AgYsyKig711Qrqm138NigCyNaN25XdB6QbAw"},
+        {"name":"useraaaaaado", "pvt":"5JKYVKky4mj1W3QSzBr5TDhTqeZkhSF1fbPa6EjkW9JeWW3ZUKo", "pub":"NGK7eR4wpvxPuE2co6Fiy185MS3RmVvu5ACqk28GEAGyievpwnbs9"},
+        {"name":"useraaaaaadp", "pvt":"5KemxY9JRJSWh63pTdPs7SRnRtN2uWtyHAshvsRrA9ZkKoTjd4X", "pub":"NGK6Jeo5BadnZyUSZuk48DKB6TJGkQ7rL7ndbAovDrnJb8yZwAyD6"},
+        {"name":"useraaaaaaea", "pvt":"5KcJ8a7WifkHGuaHCKeLaMHAPsvDtS2zEdsLVU2kAzw45LVjfzj", "pub":"NGK7prNLamVMoiVnQ6nBWK5EBirtG16qwoZgDhgzNANJwj3NzqnEi"}
+    ],
+    "producers": [
+        {"name":"producer111a", "pvt":"5KLGj1HGRWbk5xNmoKfrcrQHXvcVJBPdAckoiJgFftXSJjLPp7b", "pub":"NGK8imf2TDq6FKtLZ8mvXPWcd6EF2rQwo8zKdLNzsbU9EiMSt9Lwz"},
+        {"name":"producer111b", "pvt":"5K6qk1KaCYYWX86UhAfUsbMwhGPUqrqHrZEQDjs9ekP5j6LgHUu", "pub":"NGK7Ef4kuyTbXbtSPP5Bgethvo6pbitpuEz2RMWhXb8LXxEgcR7MC"},
+        {"name":"producer111c", "pvt":"5JCStvbRgUZ6hjyfUiUaxt5iU3HP6zC1kwx3W7SweaEGvs4EPfQ", "pub":"NGK5n442Qz4yVc4LbdPCDnxNSseAiUCrNjRxAfPhUvM8tWS5svid6"},
+        {"name":"producer111d", "pvt":"5JJjaKnAb9KM2vkkJDgrYXoeUEdGgWtB5WK1a38wrmKnS3KtkS6", "pub":"NGK5y3Tm1czTCia3o3JidVKmC78J9gRQU8qHjmRjFxTyhh2vxvF5d"}
+    ],
+    "newproducers": [
+        {"name":"useraaaaaaaa", "pvt":"5JtUScZK2XEp3g9gh7F8bwtPTRAkASmNrrftmx4AxDKD5K4zDnr", "pub":"NGK69X3383RzBZj41k73CSjUNXM5MYGpnDxyPnWUKPEtYQmTBWz4D"},
+        {"name":"useraaaaaaab", "pvt":"5JUNYmkJ5wVmtVY8x9A1KKzYe9UWLZ4Fq1hzGZxfwfzJB8jkw6u", "pub":"NGK7yBtksm8Kkg85r4in4uCbfN77uRwe82apM8jjbhFVDgEgz3w8S"},
+        {"name":"useraaaaaaac", "pvt":"5K6LU8aVpBq9vJsnpCvaHCcyYwzPPKXfDdyefYyAMMs3Qy42fUr", "pub":"NGK7WnhaKwHpbSidYuh2DF1qAExTRUtPEdZCaZqt75cKcixuQUtdA"},
+        {"name":"useraaaaaaad", "pvt":"5KdRpt1juJfbPEryZsQYxyNxSTkXTdqEiL4Yx9cAjdgApt4ANce", "pub":"NGK7Bn1YDeZ18w2N9DU4KAJxZDt6hk3L7eUwFRAc1hb5bp6xJwxNV"},
+        {"name":"useraaaaaaae", "pvt":"5JRMbcnc35NkvxKTZUnoe3W4ENQCjhMUFwjN5jQmAqN9D7N6y3N", "pub":"NGK6cNcTC6WTFkKV4C8DoxcTXdDTDKvj3vgZEVDGVFckK1eTNJQtf"},
+        {"name":"useraaaaaaaf", "pvt":"5HqyipkJSm5fwYhbhGC3vmmoBwabtgJSPecnvmN2mMrCTQfWBSS", "pub":"NGK8UkmsnCo4GxDihbKwgoZY6f2QLSMEqBZ2frGLckxrCHrz15r7X"},
+        {"name":"useraaaaaaag", "pvt":"5KPr55J2UQNUh3xP5Q6ebqqV6MK5usrXxG4qqRfpaLieGa8VpCm", "pub":"NGK8Smcv2eMoFcp1EQSBxcAeuBowSS9xesuHjhvTnK4AACjRycTVA"},
+        {"name":"useraaaaaaah", "pvt":"5JV9UNEpPKa4sqxSxvGWYPY9ZBTzAttyq7ShPvLUJSetwAeSXFW", "pub":"NGK57VTWSiPyx45cSWGdGNtAZnmpqMrAvASQmL9hmXnoLNrgadwf7"},
+        {"name":"useraaaaaaai", "pvt":"5K4GSGP2r1Yu3RqmPZPF8Hv6Zrv2YWsUEoCqwwHxKsZavz2tChg", "pub":"NGK5dt9CWCKM1scrWpFsRbzY71Up9UYFmJs1ySFKLJDGdYJmgEH3f"},
+        {"name":"useraaaaaaaj", "pvt":"5K4MmsY7Th8DqjEY2vbM7npaxSQ56XzvNULkJeqKmbYoVRmPPpB", "pub":"NGK8FdMPpPxpG5QAqGLncY5kBrEQ9NXPKCKnLH6oWDMPR8q8BrEmT"}
+    ]
+}

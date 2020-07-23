@@ -1,0 +1,50 @@
+{
+    "ngk-multiversion-tests":
+    {
+        "environment":
+        {
+            "IMAGE_TAG": "_1-8-0-rc2"
+        },
+        "configuration":
+        [
+            "170=v1.7.0"
+        ]
+    },
+    "ngk-docker-builds":
+    {
+        "environment":
+        {
+            "BUILDER_TAG": "v2.0.0"
+        }
+    },
+    "ngk-sync-tests":
+    {
+        "environment":
+        {
+            "SKIP_PRE_V180": "true",
+            "SKIP_V180": "true",
+            "SKIP_V200": "false"
+        }
+    },
+    "ngk-replay-tests":
+    {
+        "environment":
+        {
+            "SKIP_PRE_V180": "true",
+            "SKIP_V180": "true",
+            "SKIP_V200": "false"
+        }
+    },
+    "ngk-resume-from-state":
+    {
+        "test":
+        [
+            {
+                "tag": "v2.0.0-rc2"
+            },
+            {
+                "tag": "v2.0.0-rc3"
+            }
+        ]
+    }
+}

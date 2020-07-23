@@ -1,0 +1,8 @@
+#performed in a small separate "cmake script" so can easily run on each build
+
+#unsure if this next is possible but just a failsafe
+if("${VERSION_STRING}" STREQUAL "")
+  set(VERSION_STRING "unknown")
+endif()
+
+configure_file(@CMAKE_CURRENT_SOURCE_DIR@/version.cpp.in @CMAKE_CURRENT_BINARY_DIR@/version.cpp @ONLY ESCAPE_QUOTES)
